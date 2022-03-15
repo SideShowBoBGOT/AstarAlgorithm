@@ -1,12 +1,16 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (shuntingyard.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Astar.cpp
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(38,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(64,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(80,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(107,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\shuntingyard\Astar.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(46,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(59,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(89,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(105,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(132,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(159,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(187,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\shuntingyard\Astar.cpp(242,22): warning C4018: '<': signed/unsigned mismatch
   shuntingyard.vcxproj -> C:\Users\User\source\repos\shuntingyard\Debug\Astar.exe
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5252,5): warning MSB3061: Unable to delete file "C:\Users\User\source\repos\shuntingyard\Debug\shuntingyard.exe". Access to the path 'C:\Users\User\source\repos\shuntingyard\Debug\shuntingyard.exe' is denied.
